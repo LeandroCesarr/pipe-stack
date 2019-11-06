@@ -5,7 +5,7 @@ const config = require('../../config/database.js');
 
 const db = {};
 const sequelize = new Sequelize(config);
-sequelize.options.logging = false
+sequelize.options.logging = false;
 
 sequelize
   .authenticate()
