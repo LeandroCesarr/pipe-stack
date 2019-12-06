@@ -1,1 +1,1 @@
-# test-sequelize
+# pipe-stack
